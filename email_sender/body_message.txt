@@ -1,0 +1,7 @@
+Thanks for using my wifi password extracter script!
+
+Here are your passwords:
+
+SSID:Password
+SSID:Password
+SSID:Password
